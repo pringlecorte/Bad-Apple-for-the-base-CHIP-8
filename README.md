@@ -21,4 +21,4 @@ Bad Apple with 16 x 12 and 8 fps
 
 <img width="450" height="529" alt="image" src="https://github.com/user-attachments/assets/ae37f470-9bce-4e17-822c-28385ac9e6ec" />
 
-
+thankfully there's no sound to consider so im free of any troubles
