@@ -17,7 +17,7 @@ also pardon me if im slow, im learning how to read and write bytes alongside lea
 i mean if nasa could go to the moon with 4kb why cant i make a bad apple port?? who's stopping me?? no one
 
 So I already decided to make it run on a 16 x 12 frame. Assuming the base chip-8 emulator uses 10x pixel scaling, it should be visible. I'm also gonna be using 8 frames per second cuz thats the sweet spot (see image below of what its gonna look like
-
+change of plans. this gonna be extra crunchy but i decided to drop to 2 fps. more data saved and it syncs with the 60Hz interal clock. basically 60/8 = ewww decimals, 60/6 = aura
 
 Bad Apple with 16 x 12 and 8 fps 
 
