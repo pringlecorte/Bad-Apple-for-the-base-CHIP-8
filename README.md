@@ -3,6 +3,15 @@ this proejct is to be abel to play bad apple !! on the chip-8 emulator. no, i wi
 
 idk why i decided to do this, one day i thought i wanted to make a chip-8 emulator and thought "the harvest of the farmer should be fruitful" so instead of playing boring games, why not watch bad apple on a tiny screen and wondering why u wasted hours of ur life on an emulator thats practically obsolete? fun right??
 
+also im making this in the hopes ill be the first to ever do this and publish my work so too bad to anyone wanting to publish theirs, i called dibs haha
+
+why bad apple? because rule 86 of the internet states that if it has a screen it can play bad apple
+i always thought it was unfair to make a port only for bigger and better emulators of a modified chip-8. why are we leaving the chip-8 behind?? it clearly has the capability to play bad apple (i say as i wrestle with countless hours of why the hell is there a white pixel over there).
+
+plsplsplsplsplsplsplspls tell me im the first to do this
+
+is this impossible? we always procastinate towards the ends of the universe but when the call of duty arrives, we must heed it. even if its playing bad apple with ridiculously low fps and low res
+
 So I already decided to make it run on a 16 x 12 frame. Assuming the base chip-8 emulator uses 10x pixel scaling, it should be visible. I'm also gonna be using 8 frames per second cuz thats the sweet spot (see image below of what its gonna look like
 
 
